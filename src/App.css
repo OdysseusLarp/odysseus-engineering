@@ -1,0 +1,11 @@
+div {
+    padding: 5px;
+}
+
+pre {
+    padding: 15px;
+    max-width: 600px;
+    background: #eee;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
